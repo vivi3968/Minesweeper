@@ -1,8 +1,3 @@
-// Vivian Lam
-// 111549991
-
-package CSE114;
-
 import java.lang.Math;
 import java.util.Arrays;
 import java.util.InputMismatchException;
